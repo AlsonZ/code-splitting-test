@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-splitting-test"]=this["webpackJsonpcode-splitting-test"]||[]).push([[3],{30:function(e,t,a){e.exports=a.p+"static/media/mountain-top-4k.257c8a86.jpg"},33:function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n),s=a(30),c=a.n(s);a(17);t.default=function(e){return i.a.createElement("div",{className:"image"},i.a.createElement(n.Suspense,{fallback:i.a.createElement("div",null,"Loading...")},i.a.createElement("img",{src:c.a,alt:"mountain",className:"image"})))}}}]);
+//# sourceMappingURL=3.c034df45.chunk.js.map
