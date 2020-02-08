@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/code-splitting-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/code-splitting-test/static/js/main.cd6cef2d.chunk.js",
-    "main.js.map": "/code-splitting-test/static/js/main.cd6cef2d.chunk.js.map",
+    "main.js": "/code-splitting-test/static/js/main.28fa628b.chunk.js",
+    "main.js.map": "/code-splitting-test/static/js/main.28fa628b.chunk.js.map",
     "runtime-main.js": "/code-splitting-test/static/js/runtime-main.144c8b3f.js",
     "runtime-main.js.map": "/code-splitting-test/static/js/runtime-main.144c8b3f.js.map",
-    "static/js/2.e8e9c247.chunk.js": "/code-splitting-test/static/js/2.e8e9c247.chunk.js",
-    "static/js/2.e8e9c247.chunk.js.map": "/code-splitting-test/static/js/2.e8e9c247.chunk.js.map",
+    "static/js/2.d4b32c75.chunk.js": "/code-splitting-test/static/js/2.d4b32c75.chunk.js",
+    "static/js/2.d4b32c75.chunk.js.map": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.map",
     "static/js/3.e136b970.chunk.js": "/code-splitting-test/static/js/3.e136b970.chunk.js",
     "static/js/3.e136b970.chunk.js.map": "/code-splitting-test/static/js/3.e136b970.chunk.js.map",
     "static/js/4.77faebd5.chunk.js": "/code-splitting-test/static/js/4.77faebd5.chunk.js",
     "static/js/4.77faebd5.chunk.js.map": "/code-splitting-test/static/js/4.77faebd5.chunk.js.map",
     "index.html": "/code-splitting-test/index.html",
-    "precache-manifest.82b41ca7f0507e23e222baf4dee9922f.js": "/code-splitting-test/precache-manifest.82b41ca7f0507e23e222baf4dee9922f.js",
+    "precache-manifest.8c38f019d9032e3e116b052588bb8f83.js": "/code-splitting-test/precache-manifest.8c38f019d9032e3e116b052588bb8f83.js",
     "service-worker.js": "/code-splitting-test/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/code-splitting-test/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e8e9c247.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.e8e9c247.chunk.js.LICENSE.txt"
+    "static/js/2.d4b32c75.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.144c8b3f.js",
-    "static/js/2.e8e9c247.chunk.js",
+    "static/js/2.d4b32c75.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cd6cef2d.chunk.js"
+    "static/js/main.28fa628b.chunk.js"
   ]
 }
