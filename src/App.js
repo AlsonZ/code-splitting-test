@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { Link, BrowserRouter as Router, Route} from 'react-router-dom';
+import { Link, BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 // import About from './about.js';
 // import Contact from './contact.js';
 import './App.css';
@@ -19,8 +19,10 @@ function App() {
             Loading...
           </div>
         }>
-          <Route exact path="/about" component={About}/>
-          <Route exact path="/contact" component={Contact}/>
+          <Switch>
+            <Route exact path="/about" component={About}/>
+            <Route exact path="/contact" component={Contact}/>
+          </Switch>
         </Suspense>
       </Router>
     </div>
