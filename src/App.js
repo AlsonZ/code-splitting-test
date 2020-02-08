@@ -11,9 +11,9 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
-        <Link to="/about">about</Link>
-        <Link to="/contact">contact</Link>
+      <Router basename={process.env.PUBLIC_URL}>
+        <Link to="./about">about</Link>
+        <Link to="./contact">contact</Link>
         <Suspense fallback={
           <div>
             Loading...
