@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "869bc27c6610b6cc09dc260c365238f1",
+    "revision": "cb28e3955a87083ec127771385363a8b",
     "url": "/code-splitting-test/index.html"
   },
   {
