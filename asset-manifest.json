@@ -1,29 +1,27 @@
 {
   "files": {
     "main.css": "/code-splitting-test/static/css/main.a67f9568.chunk.css",
-    "main.js": "/code-splitting-test/static/js/main.34f6547a.chunk.js",
-    "main.js.map": "/code-splitting-test/static/js/main.34f6547a.chunk.js.map",
-    "runtime-main.js": "/code-splitting-test/static/js/runtime-main.d306f096.js",
-    "runtime-main.js.map": "/code-splitting-test/static/js/runtime-main.d306f096.js.map",
-    "static/js/2.d4b32c75.chunk.js": "/code-splitting-test/static/js/2.d4b32c75.chunk.js",
-    "static/js/2.d4b32c75.chunk.js.map": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.map",
-    "static/js/3.b3282c4a.chunk.js": "/code-splitting-test/static/js/3.b3282c4a.chunk.js",
-    "static/js/3.b3282c4a.chunk.js.map": "/code-splitting-test/static/js/3.b3282c4a.chunk.js.map",
-    "static/js/4.2fc94462.chunk.js": "/code-splitting-test/static/js/4.2fc94462.chunk.js",
-    "static/js/4.2fc94462.chunk.js.map": "/code-splitting-test/static/js/4.2fc94462.chunk.js.map",
-    "static/js/5.da0c14f0.chunk.js": "/code-splitting-test/static/js/5.da0c14f0.chunk.js",
-    "static/js/5.da0c14f0.chunk.js.map": "/code-splitting-test/static/js/5.da0c14f0.chunk.js.map",
+    "main.js": "/code-splitting-test/static/js/main.9a214e74.chunk.js",
+    "main.js.map": "/code-splitting-test/static/js/main.9a214e74.chunk.js.map",
+    "runtime-main.js": "/code-splitting-test/static/js/runtime-main.8367ebde.js",
+    "runtime-main.js.map": "/code-splitting-test/static/js/runtime-main.8367ebde.js.map",
+    "static/js/2.b7128aff.chunk.js": "/code-splitting-test/static/js/2.b7128aff.chunk.js",
+    "static/js/2.b7128aff.chunk.js.map": "/code-splitting-test/static/js/2.b7128aff.chunk.js.map",
+    "static/js/3.05e24aea.chunk.js": "/code-splitting-test/static/js/3.05e24aea.chunk.js",
+    "static/js/3.05e24aea.chunk.js.map": "/code-splitting-test/static/js/3.05e24aea.chunk.js.map",
+    "static/js/4.508a637a.chunk.js": "/code-splitting-test/static/js/4.508a637a.chunk.js",
+    "static/js/4.508a637a.chunk.js.map": "/code-splitting-test/static/js/4.508a637a.chunk.js.map",
     "index.html": "/code-splitting-test/index.html",
-    "precache-manifest.45d21c2849fef6b33ea63021db1d6933.js": "/code-splitting-test/precache-manifest.45d21c2849fef6b33ea63021db1d6933.js",
+    "precache-manifest.6a54116e5b9035726a84910b898e59f2.js": "/code-splitting-test/precache-manifest.6a54116e5b9035726a84910b898e59f2.js",
     "service-worker.js": "/code-splitting-test/service-worker.js",
     "static/css/main.a67f9568.chunk.css.map": "/code-splitting-test/static/css/main.a67f9568.chunk.css.map",
-    "static/js/2.d4b32c75.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.LICENSE.txt",
+    "static/js/2.b7128aff.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.b7128aff.chunk.js.LICENSE.txt",
     "static/media/mountain-top-4k.jpg": "/code-splitting-test/static/media/mountain-top-4k.257c8a86.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d306f096.js",
-    "static/js/2.d4b32c75.chunk.js",
+    "static/js/runtime-main.8367ebde.js",
+    "static/js/2.b7128aff.chunk.js",
     "static/css/main.a67f9568.chunk.css",
-    "static/js/main.34f6547a.chunk.js"
+    "static/js/main.9a214e74.chunk.js"
   ]
 }
