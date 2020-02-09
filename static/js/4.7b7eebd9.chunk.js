@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-splitting-test"]=this["webpackJsonpcode-splitting-test"]||[]).push([[4],{33:function(t,e,n){"use strict";n.r(e);var s=n(0),c=n.n(s);n(19);e.default=function(){return c.a.createElement("div",{className:"contact"},"Contact Page")}}}]);
+//# sourceMappingURL=4.7b7eebd9.chunk.js.map

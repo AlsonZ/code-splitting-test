@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/code-splitting-test/static/css/main.a67f9568.chunk.css",
-    "main.js": "/code-splitting-test/static/js/main.22b77baf.chunk.js",
-    "main.js.map": "/code-splitting-test/static/js/main.22b77baf.chunk.js.map",
-    "runtime-main.js": "/code-splitting-test/static/js/runtime-main.d306f096.js",
-    "runtime-main.js.map": "/code-splitting-test/static/js/runtime-main.d306f096.js.map",
-    "static/js/2.d4b32c75.chunk.js": "/code-splitting-test/static/js/2.d4b32c75.chunk.js",
-    "static/js/2.d4b32c75.chunk.js.map": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.map",
-    "static/js/3.b3282c4a.chunk.js": "/code-splitting-test/static/js/3.b3282c4a.chunk.js",
-    "static/js/3.b3282c4a.chunk.js.map": "/code-splitting-test/static/js/3.b3282c4a.chunk.js.map",
-    "static/js/4.2fc94462.chunk.js": "/code-splitting-test/static/js/4.2fc94462.chunk.js",
-    "static/js/4.2fc94462.chunk.js.map": "/code-splitting-test/static/js/4.2fc94462.chunk.js.map",
-    "static/js/5.da0c14f0.chunk.js": "/code-splitting-test/static/js/5.da0c14f0.chunk.js",
-    "static/js/5.da0c14f0.chunk.js.map": "/code-splitting-test/static/js/5.da0c14f0.chunk.js.map",
+    "main.js": "/code-splitting-test/static/js/main.dd261d00.chunk.js",
+    "main.js.map": "/code-splitting-test/static/js/main.dd261d00.chunk.js.map",
+    "runtime-main.js": "/code-splitting-test/static/js/runtime-main.52044bec.js",
+    "runtime-main.js.map": "/code-splitting-test/static/js/runtime-main.52044bec.js.map",
+    "static/js/2.6429e66f.chunk.js": "/code-splitting-test/static/js/2.6429e66f.chunk.js",
+    "static/js/2.6429e66f.chunk.js.map": "/code-splitting-test/static/js/2.6429e66f.chunk.js.map",
+    "static/js/3.d75e81ee.chunk.js": "/code-splitting-test/static/js/3.d75e81ee.chunk.js",
+    "static/js/3.d75e81ee.chunk.js.map": "/code-splitting-test/static/js/3.d75e81ee.chunk.js.map",
+    "static/js/4.7b7eebd9.chunk.js": "/code-splitting-test/static/js/4.7b7eebd9.chunk.js",
+    "static/js/4.7b7eebd9.chunk.js.map": "/code-splitting-test/static/js/4.7b7eebd9.chunk.js.map",
+    "static/js/5.fede9888.chunk.js": "/code-splitting-test/static/js/5.fede9888.chunk.js",
+    "static/js/5.fede9888.chunk.js.map": "/code-splitting-test/static/js/5.fede9888.chunk.js.map",
     "index.html": "/code-splitting-test/index.html",
-    "precache-manifest.c9736fc199b1272502076b2568ad6cef.js": "/code-splitting-test/precache-manifest.c9736fc199b1272502076b2568ad6cef.js",
+    "precache-manifest.318923c318f9508dc8e97e1c88509d94.js": "/code-splitting-test/precache-manifest.318923c318f9508dc8e97e1c88509d94.js",
     "service-worker.js": "/code-splitting-test/service-worker.js",
     "static/css/main.a67f9568.chunk.css.map": "/code-splitting-test/static/css/main.a67f9568.chunk.css.map",
-    "static/js/2.d4b32c75.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.d4b32c75.chunk.js.LICENSE.txt",
+    "static/js/2.6429e66f.chunk.js.LICENSE.txt": "/code-splitting-test/static/js/2.6429e66f.chunk.js.LICENSE.txt",
     "static/media/mountain-top-4k.jpg": "/code-splitting-test/static/media/mountain-top-4k.257c8a86.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d306f096.js",
-    "static/js/2.d4b32c75.chunk.js",
+    "static/js/runtime-main.52044bec.js",
+    "static/js/2.6429e66f.chunk.js",
     "static/css/main.a67f9568.chunk.css",
-    "static/js/main.22b77baf.chunk.js"
+    "static/js/main.dd261d00.chunk.js"
   ]
 }

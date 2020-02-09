@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-splitting-test"]=this["webpackJsonpcode-splitting-test"]||[]).push([[5],{34:function(e,t,a){"use strict";a.r(t);var n=a(0),s=a.n(n);a(10),a(19);t.default=function(e){return s.a.createElement("div",{className:"image"},s.a.createElement(n.Suspense,{fallback:s.a.createElement("div",null,"Loading...")},s.a.createElement("img",{src:e.img,alt:"mountain",className:"image"})))}}}]);
+//# sourceMappingURL=5.fede9888.chunk.js.map
